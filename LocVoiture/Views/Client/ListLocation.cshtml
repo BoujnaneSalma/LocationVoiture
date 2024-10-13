@@ -1,0 +1,53 @@
+﻿
+<h2>Liste des Locations en cours</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Téléphone</th>
+            <th>CIN</th>
+            <th>Location</th>
+          
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in ViewBag.Clients)
+        {
+            <tr>
+                <td>@client.Client.Nom</td>
+                <td>@client.Client.Prenom</td>
+                <td>@client.Client.Tel</td>
+                <td>@client.Client.CIN</td>
+                <td>
+                    <ol>
+                        @foreach (var location in client.Client.Locations)
+                        {
+                            <li>@location.Date_debut - 
+                            @location.Date_fin</li>
+                            <li>le prix de cette location est </li>
+
+                            <span>@location.Prix_jour</span>
+
+
+                        }
+
+                        <li>total de locations est</li>
+
+
+                        <span>@client.totalLocation</span>
+                    </ol>
+                </td>
+
+                <td>
+                    <a asp-action="Update" asp-controller="Client" asp-route-id="@client.Client.IdClient" class="btn btn-primary">Modifier</a>
+
+                    <a asp-action="Delete" asp-controller="Client" onclick="return confirm('vous etes sur de supprimer ?')" asp-route-id="@client.Client.IdClient" class="btn btn-danger">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

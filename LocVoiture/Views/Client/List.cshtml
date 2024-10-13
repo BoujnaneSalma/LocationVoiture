@@ -1,0 +1,62 @@
+﻿
+<a asp-action="Ajouter" class="btn btn-primary">Ajouter</a>
+<span class="text-danger">@TempData["Error"]</span>
+<h2>Liste des clients</h2>
+<table id="mytable" class="table">
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Téléphone</th>
+            <th>CIN</th>
+            <th>Location</th>
+          
+            <th>Action</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in ViewBag.client)
+        {
+            <tr>
+                <td>@client.Client.Nom</td>
+                <td>@client.Client.Prenom</td>
+                <td>@client.Client.Tel</td>
+                <td>@client.Client.CIN</td>
+                <td>
+                    <ul>
+                        @foreach (var location in client.Client.Locations)
+                    {
+                        
+                            <li>le prix de cette location est </li>
+
+                            <span>@location.Prix_jour</span>
+
+                   
+                        }
+                       
+                                <li>total de locations est</li>
+
+
+                        <span>@client.totalLocation</span>
+                    </ul>
+                </td>
+               
+                <td>
+                    <a asp-action="Update" asp-controller="Client" asp-route-id="@client.Client.IdClient" class="btn btn-primary">Modifier</a>
+
+                    <a asp-action="Delete" asp-controller="Client" onclick="return confirm('vous etes sur de supprimer ?')" asp-route-id="@client.Client.IdClient" class="btn btn-danger">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#mytable').DataTable();
+        });
+    </script>
+
+}

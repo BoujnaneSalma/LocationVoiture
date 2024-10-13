@@ -1,0 +1,10 @@
+﻿@model Marque
+
+<form asp-action="Update" asp-controller="Marque" method="post">
+    <div class="form-group">
+        <label asp-for="Libelle">Nom :</label>
+        <input asp-for="Libelle" class="form-control" />
+    </div>
+    <br />
+    <button type="submit"  class="btn btn-primary">Enregistrer les modifications</button>
+</form>

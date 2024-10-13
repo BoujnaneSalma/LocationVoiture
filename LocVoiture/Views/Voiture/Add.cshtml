@@ -1,0 +1,51 @@
+﻿@model LocVoiture.Models.Voiture 
+
+<form asp-action="Add" asp-controller="Voiture" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        
+        <label asp-for="Matricule">Matricule :</label>
+        <input asp-for="Matricule" class="form-control" />
+        <span asp-validation-for="Matricule" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="Nbr_portes">Nombre de portes :</label>
+        <input asp-for="Nbr_portes" class="form-control" />
+        <span asp-validation-for="Nbr_portes" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="Nbr_places">Nombre de places :</label>
+        <input asp-for="Nbr_places" class="form-control" />
+        <span asp-validation-for="Nbr_places" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="Couleur">Couleur :</label>
+        <input type="color" asp-for="Couleur" class="form-control" />
+        <span asp-validation-for="Couleur" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        
+        <label asp-for="Photo_1">Photo :</label>
+        <input asp-for="Photo_1" type="file" name="MyImage" accept="images/*" class="form-control-file" />
+        <span asp-validation-for="Photo_1" class="text-danger"></span></>
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="Marque">Marque :</label>
+        <select asp-for="MarqueId" class="form-control">
+            <option value="">Sélectionnez une marque</option>
+       
+               
+            @foreach (Marque marque in ViewBag.Marque) 
+            {
+                <option value="@marque.IdMarque">@marque.Libelle</option>
+
+            }
+        
+        </select>
+    </div>
+    
+    <br />
+    <button type="submit" class="btn btn-primary">Ajouter</button>
+</form>
+
+

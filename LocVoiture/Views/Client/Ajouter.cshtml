@@ -1,0 +1,29 @@
+﻿@model LocVoiture.Models.Client
+<h2>Ajouter un nouveau client</h2>
+
+<form asp-action="Ajouter" asp-controller="Client" method="post">
+    <div class="form-group">
+        <label asp-for="Nom">Nom :</label>
+        <input asp-for="Nom" class="form-control" />
+        <span asp-validation-for="Nom" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="Prenom">Prénom :</label>
+        <input asp-for="Prenom" class="form-control" />
+        <span asp-validation-for="Prenom" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="Tel">Téléphone :</label>
+        <input asp-for="Tel" class="form-control" />
+        <span asp-validation-for="Tel" class="text-danger"></span></>
+    </div>
+    <div class="form-group">
+        <label asp-for="CIN">CIN :</label>
+        <input asp-for="CIN" class="form-control" />
+        <span asp-validation-for="CIN" class="text-danger"></span></>
+    </div>
+
+    <br />
+    <button type="submit"  class="btn btn-primary">Ajouter</button>
+</form>
+

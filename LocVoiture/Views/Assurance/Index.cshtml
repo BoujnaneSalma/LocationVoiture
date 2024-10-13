@@ -1,0 +1,46 @@
+﻿@model List<LocVoiture.Models.Assurance>
+
+<table id="mytable" class="table">
+    <thead>
+        <tr>
+            <th>Agence</th>
+            <th>Date debut</th>
+            <th>Date Fin</th>
+            <th>Prix</th>
+            <th>Voitures</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var A in Model)
+        {
+            <tr>
+                <td>@A.Agence</td>
+                <td>@A.Date_debut</td>
+                <td>@A.Date_fin</td>
+                <td>@A.Prix</td>
+                <td>
+                    @A.Voiture.Matricule
+                    <br />
+                <img src="~/img/@A.Voiture.Photo_1" width="100" height="100" />
+                
+                </td>
+               
+              
+                <td>
+
+                    <a asp-action="Delete" asp-controller="Assurance" onclick="return confirm('vous etes sur de supprimer ?')" asp-route-id="@A.AssuranceId" class="btn btn-danger">Supprimer</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#mytable').DataTable();
+        });
+    </script>
+
+}

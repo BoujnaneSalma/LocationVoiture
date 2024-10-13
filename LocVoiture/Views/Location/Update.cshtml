@@ -1,0 +1,39 @@
+﻿@model Location
+
+<form asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="Date_debut">Date de debut :</label>
+        <input asp-for="Date_debut" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Date_fin">Date de fin :</label>
+        <input asp-for="Date_fin" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Prix_jour">Prix par jour :</label>
+        <input  asp-for="Prix_jour" class="form-control" />
+    </div>
+   
+    <div class="form-group">
+        <label asp-for="Voiture">Voiture :</label>
+        <select asp-for="VoitureId">
+            @foreach (Voiture v in ViewBag.voiture)
+            {
+                <option value="@v.IdVoiture">@v.Matricule</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Client">Client :</label>
+        <select asp-for="ClientId">
+            @foreach (Client c in ViewBag.client)
+            {
+                <option value="@c.IdClient">@c.Nom</option>
+            }
+        </select>
+    </div>
+
+
+    <br />
+    <button type="submit" asp-action="Update" class="btn btn-primary">Enregistrer les modifications</button>
+</form>

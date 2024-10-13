@@ -1,0 +1,1038 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|c:\\users\\boujnane\\desktop\\asp\\locationvoiture\\locvoiture\\locvoiture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\marquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\marquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\assurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\assurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\viewmodel\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\viewmodel\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\voiture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\voiture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\assurance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\assurance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\voiture\\listassurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\voiture\\listassurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\service\\uplead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\service\\uplead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\voiture\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\voiture\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\assurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\models\\assurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\marque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\marque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\marque\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\marque\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\location\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\location\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\client\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\client\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\report\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\report\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\client\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\client\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\assurance\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\assurance\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\report\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\report\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\locatio_v2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\locatio_v2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\locatio_v2dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\locatio_v2dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\locatio_v2dataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\locatio_v2dataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\locatio_v2dataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\locatio_v2dataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\locatio_v2dataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\locatio_v2dataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\location\\ajouterx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\location\\ajouterx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\voiture\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\voiture\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\marque\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\marque\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEE4450-951B-40A8-8F94-C95D786B8069}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\migrations\\20240417104152_modifie_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\migrations\\20240417104152_modifie_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\client\\listlocation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\client\\listlocation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\views\\client\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96ABB16-17BB-47CB-A51E-1434BF435094}|LocVoiture\\LocVoiture.csproj|solutionrelative:locvoiture\\views\\client\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\locvoiture\\models\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:locvoiture\\models\\voituremarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LocVoiture\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\appsettings.Development.json",
+              "RelativeToolTip": "LocVoiture\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T15:36:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report3.rdlc [Conception]",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report3.rdlc",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Report3.rdlc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report3.rdlc [Conception]",
+              "RelativeToolTip": "ConsoleApp1\\Report3.rdlc [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-07T18:43:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoitureController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\VoitureController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\VoitureController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\VoitureController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\VoitureController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAJgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:50:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssuranceController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\AssuranceController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\AssuranceController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\AssuranceController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\AssuranceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:00:40.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\appsettings.json",
+              "RelativeDocumentMoniker": "LocVoiture\\appsettings.json",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\appsettings.json",
+              "RelativeToolTip": "LocVoiture\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T10:56:56.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Program.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Program.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Program.cs",
+              "RelativeToolTip": "LocVoiture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:37:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarqueController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\MarqueController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\MarqueController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\MarqueController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\MarqueController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:08:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report2.rdlc [Conception]",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report2.rdlc",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report2.rdlc [Conception]",
+              "RelativeToolTip": "ConsoleApp1\\Report2.rdlc [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-29T10:41:48.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Index.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Voiture\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Index.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Voiture\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T21:51:50.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Report1.rdlc [Conception]",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report1.rdlc",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Report1.rdlc [Conception]",
+              "RelativeToolTip": "ConsoleApp1\\Report1.rdlc [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-18T15:46:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Context\\MyContext.cs",
+              "RelativeToolTip": "LocVoiture\\Context\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:45:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VoitureMarque.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\ViewModel\\VoitureMarque.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\ViewModel\\VoitureMarque.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\ViewModel\\VoitureMarque.cs",
+              "RelativeToolTip": "LocVoiture\\ViewModel\\VoitureMarque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:44:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VoitureMarque.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\VoitureMarque.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\VoitureMarque.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\VoitureMarque.cs",
+              "RelativeToolTip": "ConsoleApp1\\VoitureMarque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:46:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListAssurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\ListAssurance.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Voiture\\ListAssurance.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\ListAssurance.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Voiture\\ListAssurance.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:47:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "uplead.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\service\\uplead.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\service\\uplead.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\service\\uplead.cs",
+              "RelativeToolTip": "LocVoiture\\service\\uplead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:50:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Add.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Voiture\\Add.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Add.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Voiture\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:59:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Assurance\\Index.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Assurance\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Assurance\\Index.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Assurance\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T21:27:22.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T00:14:01.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assurance.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Assurance.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\Assurance.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Assurance.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\Assurance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:22:06.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Client.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:46:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Location.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:12:09.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Marque.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Marque.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\Marque.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\Marque.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\Marque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:57:21.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Index.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Marque\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Index.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Marque\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:32:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Create.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Marque\\Create.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Create.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Marque\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:50:10.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAMAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T22:47:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Location\\Update.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Location\\Update.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Location\\Update.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Location\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:48:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:47:21.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\Update.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Client\\Update.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\Update.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Client\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:48:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Assurance\\Add.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Assurance\\Add.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Assurance\\Add.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Assurance\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T21:10:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:11:59.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:13:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LocVoiture\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:40:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Report1.rdlc",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\report\\Report1.rdlc",
+              "RelativeDocumentMoniker": "LocVoiture\\report\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\report\\Report1.rdlc",
+              "RelativeToolTip": "LocVoiture\\report\\Report1.rdlc",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-20T11:00:06.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\List.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Client\\List.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\List.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Client\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T22:56:26.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Locatio_V2DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet1.xsd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Locatio_V2DataSet1.xsd",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet1.xsd",
+              "RelativeToolTip": "ConsoleApp1\\Locatio_V2DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-29T10:44:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Report2.rdlc",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\report\\Report2.rdlc",
+              "RelativeDocumentMoniker": "LocVoiture\\report\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\report\\Report2.rdlc",
+              "RelativeToolTip": "LocVoiture\\report\\Report2.rdlc",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-29T10:54:35.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Locatio_V2DataSet.xss",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xss",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Locatio_V2DataSet.xss",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xss",
+              "RelativeToolTip": "ConsoleApp1\\Locatio_V2DataSet.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMqSURBVDhPjZTfS9pRFMCPvzYmCZpKLsxZLtuIYgrVSKjR9qY9j\u002Bipwj1sERTU/oGg9hL9BfnUyyxo0ct6CZQiK1YrGpT90hmU\u002BYPy5/y5c6/XppmsDxz0nnPu\u002BZ577jkX/kd3d7cqEol8RLGHw\u002BEgSuaOnKFY7Ha7EbLZLIftuxez2WwYGBh4LxKJTMfHx9KNjY0nXq\u002BXz8yUpqamPyghuVx\u002B5PP5vpYNiMEe9fT0fFIqlYMHB4e1cpkcLi8vIRwJM48ciqoq4HA4kEqnogaD4bDoa4UYjUZBc3Oz0u1212JWoNfpoaGhgVmL\u002BbW/D64jtxD/vuLmVKV4PJ5MMBjMJJMp8Pt9mJ0XcA03NzdFgseEK98V/U8om\u002BHo6GgMnZKtra2wsrICzkMnZvgCxBIx88hxdnoKWN9bfVENu7q63o2MjHxmS6irq9OIxWL17u4uzMzMQDqdBj5fwKw5YrEoSoz4wtTUVHGGCoXiqV6vf7u0tASpVAqwfqBSqQBrCZlMBgKBAPMsT0kNQ6EQLCwsgNVqpbK2tsYsD6MkIJfLhcrKSjwaH4RCIVRUVDDLwygJWIV9NTExAVqtlrQO9Pf3M8vDoDUcHx//otFontfU1Kh4PB7NUCAQ0AxxSiCRSMDQ0BD9JSUgt14I2UP8CTRgR0fHG\u002Bz2FqfTCUQIZCrI7eJ40jWhvb2dXlIhEomE6nQ6XQSX\u002B7RtbDabY3Nzs2V1dbVkAyGZTNIPjY2N0SyXl5eZBaC6ujre2NgYwH0HLpfLyseii/AiaC3xK4B9SB2jCB6F9xjx\u002B/23\u002Bs7OTnKiFGaO7RfLYjt5UG3b2dn5ZjKZvvPx2XFg7Z45HA66Ic/w8PBgW1vba7yUD0x1Cwb7cX19PdjX1xfBrBKoisbjcTp7fBz4l7Ozs9nt7W06CRaLBXp7e8ks/66vr9eSo87NzdH\u002BXFxcpA0vlUrDk5OTP9fX15NEXwg96tbWFpyfn8PFxQWQTEngPGT4SW1J7fb29uDk5ATw9cnOz8\u002BXBCPQgHhkwGyoqNVq\u002Br7lIY2dtxGRyWTMcj\u002B0bbDgZR9anGPO9PQ0W\u002BW424f/APgLhKeOqUy7wgkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-29T10:45:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Locatio_V2DataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xsc",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Locatio_V2DataSet.xsc",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xsc",
+              "RelativeToolTip": "ConsoleApp1\\Locatio_V2DataSet.xsc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-04-29T10:44:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Locatio_V2DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xsd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Locatio_V2DataSet.xsd",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.xsd",
+              "RelativeToolTip": "ConsoleApp1\\Locatio_V2DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-29T10:44:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Locatio_V2DataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.Designer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Locatio_V2DataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Locatio_V2DataSet.Designer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Locatio_V2DataSet.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:44:57.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AjouterX.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Location\\AjouterX.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Location\\AjouterX.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Location\\AjouterX.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Location\\AjouterX.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:50:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T19:36:54.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T23:07:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T16:15:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T22:08:17.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:35:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Update.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Voiture\\Update.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Voiture\\Update.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Voiture\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:17:21.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T07:55:37.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:19:12.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T16:16:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VoitureMarque.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\VoitureMarque.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Models\\VoitureMarque.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Models\\VoitureMarque.cs",
+              "RelativeToolTip": "LocVoiture\\Models\\VoitureMarque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:43:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Update.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Marque\\Update.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Marque\\Update.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Marque\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:50:14.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:20:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:04:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:04:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:04:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:23:50.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:50:47.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LocVoiture\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LocVoiture\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T16:37:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240417104152_modifie_identity.cs",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Migrations\\20240417104152_modifie_identity.cs",
+              "RelativeDocumentMoniker": "LocVoiture\\Migrations\\20240417104152_modifie_identity.cs",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Migrations\\20240417104152_modifie_identity.cs",
+              "RelativeToolTip": "LocVoiture\\Migrations\\20240417104152_modifie_identity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:41:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LocVoiture\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:57:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ListLocation.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\ListLocation.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Client\\ListLocation.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\ListLocation.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Client\\ListLocation.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T23:15:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LocVoiture\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LocVoiture\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-13T22:11:32.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Ajouter.cshtml",
+              "DocumentMoniker": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\Ajouter.cshtml",
+              "RelativeDocumentMoniker": "LocVoiture\\Views\\Client\\Ajouter.cshtml",
+              "ToolTip": "C:\\Users\\BOUJNANE\\Desktop\\ASP\\LocationVoiture\\LocVoiture\\LocVoiture\\Views\\Client\\Ajouter.cshtml",
+              "RelativeToolTip": "LocVoiture\\Views\\Client\\Ajouter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T22:27:14.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

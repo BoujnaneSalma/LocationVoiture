@@ -1,0 +1,54 @@
+﻿@model Voiture
+
+<form asp-action="Update" asp-controller="Voiture" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        @Html.ValidationSummary(false, "", new { @class = "error-message" })
+        <label asp-for="Matricule">Matricule :</label>
+        <input asp-for="Matricule" class="form-control" />
+        @if (ViewData.ModelState.ContainsKey("Matricule"))
+        {
+            <span class="error-message">@ViewData.ModelState["Matricule"].Errors.First().ErrorMessage</span>
+        }
+    </div>
+    <input asp-for="IdVoiture" type="hidden" class="form-control" />
+    <input asp-for="Photo_1" type="hidden" class="form-control" />
+
+    <div class="form-group">
+        <label asp-for="Nbr_portes">Nbr_portes :</label>
+        <input asp-for="Nbr_portes" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Nbr_places">Nbr_places :</label>
+        <input asp-for="Nbr_places" class="form-control" />
+    </div>
+    <div class="form-group">
+        <div class="form-group">
+            <label name="MyImage">Photo:</label>
+            <input type="file" name="MyImage" class="form-control" />
+            <span asp-validation-for="Photo_1" class="text-danger"></span>
+            @if (!string.IsNullOrEmpty(Model.Photo_1))
+            {
+                <img src="@Url.Content($"~/img/{Model.Photo_1}")" width="100" height="100" />
+            }
+        </div>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Couleur">Couleur :</label> 
+        <input type="color" asp-for="Couleur" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Marque">Marque :</label>
+        <select asp-for="MarqueId">
+            @foreach (Marque m in ViewBag.marque)
+            {
+                <option value="@m.IdMarque">@m.Libelle</option>
+            }
+        </select>
+    
+    </div>
+
+
+    <br />
+    <button type="submit" class="btn btn-primary">Enregistrer les modifications</button>
+</form>

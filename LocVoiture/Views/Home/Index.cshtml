@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-3">Tableau de bord</h2>
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <div class="card border-primary">
+                <div class="card-header bg-primary text-white">Total de Voitures</div>
+                <div class="card-body text-primary">
+                    <p class="card-text"><strong>@ViewBag.TotalVoitures</strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card border-success">
+                <div class="card-header bg-success text-white">Total de Locations</div>
+                <div class="card-body text-success">
+                    <p class="card-text"><strong>@ViewBag.TotalLocations</strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card border-danger">
+                <div class="card-header bg-danger text-white">Total de Marques</div>
+                <div class="card-body text-danger">
+                    <p class="card-text"><strong>@ViewBag.TotalMarques</strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card border-warning">
+                <div class="card-header bg-warning text-white">Total de Assurances</div>
+                <div class="card-body text-warning">
+                    <p class="card-text"><strong>@ViewBag.TotalAssurances</strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card border-info">
+                <div class="card-header bg-info text-white">Total de Clients</div>
+                <div class="card-body text-info">
+                    <p class="card-text"><strong>@ViewBag.TotalClients</strong></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<video width="100%" height="100%" controls>
+    <source src="~/assets/videos/car.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>

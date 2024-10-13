@@ -1,0 +1,133 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Location de Voitures</title>
+    <link rel="shortcut icon" type="image/png" href="~/assets/images/logos/favicon.png" />
+    <link rel="stylesheet" href="~/assets/css/styles.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.3/css/dataTables.dataTables.css" />
+
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.js"></script>
+</head>
+
+<body>
+
+    <!--  Body Wrapper -->
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <!-- Sidebar Start -->
+        <aside class="left-sidebar">
+            <!-- Sidebar scroll-->
+            <div>
+                <div class="brand-logo d-flex align-items-center justify-content-between">
+                        <img src="~/assets/images/logos/location1.png" width="200" alt="" />
+
+                   
+                </div>
+                <!-- Sidebar navigation-->
+                
+                <nav class="sidebar-nav scroll-sidebar" data-simplebar="">
+                    <ul id="sidebarnav">
+                       
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Home" asp-action="Index">
+                                <span>
+                                    <i class="ti ti-layout-dashboard"></i>
+                                </span>
+                                <span class="hide-menu">Dashboard</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Marque" asp-action="Index">
+                                <span>
+                                    <i class="ti ti-shield"></i>
+                                </span>
+                                <span class="hide-menu">Marques</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Voiture" asp-action="Index">
+                                <span>
+                                    <i class="ti ti-car"></i>
+                                </span>
+                                <span class="hide-menu">Voitures</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Voiture" asp-action="ListAssurance">
+                                <span>
+                                    <i class="ti ti-car"></i>
+                                </span>
+                                <span class="hide-menu">Voitures non Assurées</span>
+                            </a>
+                        </li>
+                      
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Client" asp-action="List">
+                                <span>
+                                    <i class="ti ti-user"></i>
+                                </span>
+                                <span class="hide-menu">Clients</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Client" asp-action="ListLocation">
+                                <span>
+                                    <i class="ti ti-user"></i>
+                                </span>
+                                <span class="hide-menu">Locations en cours</span>
+                            </a>
+                        </li>
+                       
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" aria-expanded="false" asp-area="" asp-controller="Assurance" asp-action="Index">
+                                <span>
+                                    <i class="ti ti-clipboard"></i>
+                                </span>
+                                <span class="hide-menu">Assurances</span>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                   <partial name="_LoginPartial" />
+                   
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+        <!--  Sidebar End -->
+        <!--  Main wrapper -->
+        <div class="body-wrapper">
+            <!--  Header Start -->
+          
+            <!--  Header End -->
+
+            <div class="container-fluid">
+                <div class="card" >
+                    <div class="card-body">
+
+                        @RenderBody()
+                       
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/assets/libs/jquery/dist/jquery.min.js"></script>
+    <script src="~/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/sidebarmenu.js"></script>
+    <script src="~/assets/js/app.min.js"></script>
+    <script src="~/assets/libs/simplebar/dist/simplebar.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

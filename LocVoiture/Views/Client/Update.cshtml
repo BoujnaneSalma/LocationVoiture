@@ -1,0 +1,25 @@
+﻿@model Client
+
+<h2>Modifier client</h2>
+
+<form asp-action="#" method="post">
+    <div class="form-group">
+        <label asp-for="Nom">Nom :</label>
+        <input asp-for="Nom" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Prenom">Prénom :</label>
+        <input asp-for="Prenom" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Tel">Téléphone :</label>
+        <input asp-for="Tel" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CIN">CIN :</label>
+        <input asp-for="CIN" class="form-control" />
+    </div>
+
+    <br />
+    <button type="submit" asp-action="Update" class="btn btn-primary">Ajouter</button>
+</form>

@@ -1,0 +1,164 @@
+﻿@model IEnumerable<Voiture>
+<a asp-action="Add" class="btn btn-primary">Ajouter</a> <a class="btn btn-btn btn-outline-secondary" asp-controller="Voiture" asp-action="Print">Imprimer</a>
+
+<span class="text-danger">@TempData["Error"]</span>
+<table id="mytable" class="table">
+    <thead>
+        <tr>
+            <th>Identifiant</th>
+            <th>Matricule</th>
+            <th>Nbr Portes</th>
+            <th>Nbr Places</th>
+            <th>Couleur</th>
+            <th>Photo</th>
+            <th>Marque</th>
+            <th>Locations</th>
+            <th>Assurances</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in ViewBag.voituresSort)
+        {
+            <tr class="text-danger">
+                <td>@v.Voiture.IdVoiture</td>
+                <td>@v.Voiture.Matricule</td>
+                <td>@v.Voiture.Nbr_portes</td>
+                <td>@v.Voiture.Nbr_places</td>
+                <td>@v.Voiture.Couleur</td>
+                <td><img src="~/img/@v.Voiture.Photo_1" width="100" height="100" /></td>
+                <td>@v.Voiture.Marque.Libelle</td>
+                
+                <td>
+                   
+                        <ul>
+
+
+                        @foreach (Location l in v.Voiture.Locations)
+                            {
+                            <span>La date Debut est :</span>
+                            <li>@l.Date_debut </li>
+                            <span>La Date Fin est :</span>
+                                <li>@l.Date_fin</li>
+                                
+                            
+                            
+                        }
+                        <span>total de locations est : </span>
+                        <li>@v.totalLocation</li>
+                       
+                        </ul>
+                </td>
+                <td>
+
+                    <ol>
+
+                        @foreach(Assurance A in v.Voiture.Assurances)
+                        {
+                            <li>@A.Agence</li>
+                            <li>@A.Date_debut</li>
+                            <li>@A.Date_fin</li>
+                            <span>total des Assurances est : </span>
+                            <li>@v.totalAss</li>
+
+                        }
+
+                       
+                   
+                    </ol>
+                </td>
+                <td>
+                    <a asp-action="Update" asp-controller="Voiture" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-primary">Modifier</a>
+                   
+                    <a asp-action="Delete" asp-controller="Voiture" onclick="return confirm('vous etes sur de supprimer ?')" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-danger">Supprimer</a>
+
+                    <a asp-action="Add" asp-controller="Assurance" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-secondary">Ajouter Assurance</a>
+
+                   
+                    <a asp-action="AjouterX" asp-controller="Location" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-warning">Ajouter Location</a>
+                  
+                            <form asp-action="Retour" asp-controller="Location" asp-route-id="@v.Voiture.IdVoiture" method="post">
+                                <input type="submit" value="Retour" class="btn btn-success" />
+                            </form>
+                     
+                    
+
+
+                </td>
+            </tr>
+           
+        }
+        @foreach (var v in ViewBag.voitures)
+        {
+            <tr>
+                <td>@v.Voiture.IdVoiture</td>
+                <td>@v.Voiture.Matricule</td>
+                <td>@v.Voiture.Nbr_portes</td>
+                <td>@v.Voiture.Nbr_places</td>
+                <td>@v.Voiture.Couleur</td>
+                <td><img src="~/img/@v.Voiture.Photo_1" width="100" height="100" /></td>
+                <td>@v.Voiture.Marque.Libelle</td>
+
+                <td>
+
+                    <ul>
+
+
+                        @foreach (Location l in v.Voiture.Locations)
+                        {
+                            <span>La date Debut est :</span>
+                            <li>@l.Date_debut </li>
+                            <span>La Date Fin est :</span>
+                            <li>@l.Date_fin</li>
+
+
+
+                        }
+                        <span>total de locations est : </span>
+                        <li>@v.totalLocation</li>
+
+                    </ul>
+                </td>
+                <td>
+
+                    <ol>
+
+                        @foreach (Assurance A in v.Voiture.Assurances)
+                        {
+                            <li>@A.Agence</li>
+                            <li>@A.Date_debut</li>
+                            <li>@A.Date_fin</li>
+                            <span>total des Assurances est : </span>
+                            <li>@v.totalAss</li>
+
+                        }
+
+
+                    </ol>
+                </td>
+                <td>
+                    <a asp-action="Update" asp-controller="Voiture" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-primary">Modifier</a>
+
+                    <a asp-action="Delete" asp-controller="Voiture" onclick="return confirm('vous etes sur de supprimer ?')" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-danger">Supprimer</a>
+
+                    <a asp-action="Add" asp-controller="Assurance" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-secondary">Ajouter Assurance</a>
+
+                    <a asp-action="AjouterX" asp-controller="Location" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-warning">Ajouter Location</a>
+
+                    <a asp-controller="Location" asp-route-id="@v.Voiture.IdVoiture" class="btn btn-info">retour</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#mytable').DataTable();
+        });
+    </script>
+
+}

@@ -1,0 +1,50 @@
+﻿@model List<Marque>
+<a asp-action="Create"  class="btn btn-primary">Ajouter</a>
+
+<span class="text-danger">@TempData["Error"]</span>
+<table id="mytable" class="table">
+    <thead>
+        <tr>
+            <th>Identifiant</th>
+            <th>Libellé</th>
+            <th>Voitures associées</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var marque in Model)
+        {
+            <tr>
+                <td>@marque.IdMarque</td>
+                <td>@marque.Libelle</td>
+                <td>
+                    <ul>
+
+                   
+                    @foreach (var voiture in marque.Voitures)
+                    {
+                            <li>@voiture.Matricule</li>
+
+                       
+                        }
+                    </ul>
+                </td> 
+                <td>
+                    <a asp-action="Update" asp-controller="Marque" asp-route-id="@marque.IdMarque" class="btn btn-primary">Modifier</a>
+                   
+                    <a class="btn btn-danger" onclick="return confirm('Vous etes sur de supprimer ? ')" asp-controller="Marque" asp-action="Delete" asp-route-id="@marque.IdMarque">Suprimer</a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#mytable').DataTable();
+        });
+    </script>
+
+}
